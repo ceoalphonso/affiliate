@@ -1,0 +1,60 @@
+A Records :
+
+[0] Name : justclick2makemoney.com | ttl: 14400 | ip: 162.241.24.101
+
+------------------
+
+AAAA Records: None
+
+------------------
+
+CNAME Records: None
+
+------------------
+
+MX Records :
+
+[0] Name : justclick2makemoney.com | ttl: 14400 | ip: 162.241.24.101 | mx: mail.justclick2makemoney.com. | preference: 0
+
+------------------
+
+NS Records :
+
+[0] Name : justclick2makemoney.com | ttl: 21600 | value: ns2.bluehost.com.
+[1] Name : justclick2makemoney.com | ttl: 21600 | value: ns1.bluehost.com.
+
+------------------
+
+PTR Records: None
+
+------------------
+
+SRV Records: None
+
+------------------
+
+SOA Records :
+
+[0] Name : justclick2makemoney.com | ttl: 21600 | mname: ns1.bluehost.com. | rname: root.box5863.bluehost.com.
+
+------------------
+
+TXT Records :
+
+[0] Name : justclick2makemoney.com | ttl: "14400" | value: "v=spf1 ip4:162.241.24.101 a mx include:websitewelcome.com ~all"
+[1] Name : justclick2makemoney.com | ttl: "14400" | value: "google-site-verification=7S95oDrd9PSpP1a7DYWEjmy0bOTECERMsFsi_Jy4cvE"
+
+------------------
+
+CAA Records: None
+
+------------------
+
+DS Records: None
+
+------------------
+
+DNSKEY Records: None
+
+------------------
+

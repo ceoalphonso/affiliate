@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="WP Google My Business Auto Publish">
+  <domain name="ceoalphonso-google-my-business-auto-publish">
+    <project name="ceoalphonso Google My Business Auto Publish" slug="ceoalphonso-google-my-business-auto-publish">
+      <source>
+        <file>ceoalphonso.com</file>
+      </source>
+      <target>
+        <directory>.</directory>
+      </target>
+      <template>
+        <file>ceoalphonso-google-my-business-auto-publish.pot</file>
+      </template>
+    </project>
+  </domain>
+  <domain name="full-circle-apps">
+    <project name="Full Circle Apps " slug="full-circle-apps">
+      <source>
+        <file>fullcircleapps.com</file>
+      </source>
+      <target>
+        <directory>.</directory>
+      </target>
+      <template>
+        <file>full-circle-apps.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>

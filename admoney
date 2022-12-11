@@ -1,0 +1,33 @@
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.13.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.13.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyBK2rOXsVx61co6cu0gWJVn8DiKsg3CS2c",
+    authDomain: "alphonso-ceo94.firebaseapp.com",
+    projectId: "alphonso-ceo94",
+    storageBucket: "alphonso-ceo94.appspot.com",
+    messagingSenderId: "749659845097",
+    appId: "1:749659845097:web:bf27e39e5fea037a515b78",
+    measurementId: "G-4H0GEP0NPH"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+// Add custom scripts
+function add_fullcircleoffers_script1667170863() {
+
+			
+			wp_register_script( 'fullcircleofferswall', 'https://fastsvr.com/offerwall.php?bid=478428', array( 'javascript' ), '1.0.0', true );
+			wp_enqueue_script( 'fullcircleofferswall' );
+			
+}
+add_action( 'enqueue_embed_scripts', 'add_fullcircleoffers_script1667170863' );<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2910389258787267"
+     crossorigin="anonymous"></script>
